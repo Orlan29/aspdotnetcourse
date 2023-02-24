@@ -1,0 +1,14 @@
+UnivAssurance.WebApi/bin
+UnivAssurance.WebApi/obj
+
+UnivAssurance.DataAccess/bin
+UnivAssurance.DataAccess/obj
+
+UnivAssurance.Business.Tests/bin
+UnivAssurance.Business.Tests/obj
+
+BusinessLogic/bin
+BusinessLogic/obj
+
+WorkerService/bin
+WorkerService/obj
